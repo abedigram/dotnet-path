@@ -11,4 +11,7 @@ this is based on official MS docs available [here](https://docs.microsoft.com/en
     - [(**REF**) c# language doc](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
     - [(**REF**) ASP .NET CORE fundamentals](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/?view=aspnetcore-5.0&tabs=windows)
     - [(**SRC**) sample .NET CORE app](https://codeload.github.com/dotnet/AspNetCore.Docs/zip/master)
-    
+2. from [.NET core vs .NET fw](https://docs.microsoft.com/en-us/dotnet/standard/choosing-core-framework-server?toc=%2Faspnet%2Fcore%2Ftoc.json&bc=%2Faspnet%2Fcore%2Fbreadcrumb%2Ftoc.json&view=aspnetcore-5.0#microservices-architecture)    
+    - [**(TOOL)** .NET CLI guide](https://docs.microsoft.com/en-us/dotnet/core/tools/)
+    - [**(TOOL)** omnisharp too for dev in vscode](https://www.omnisharp.net/)
+    - Azure services for microserive arch development
