@@ -15,3 +15,12 @@ this is based on official MS docs available [here](https://docs.microsoft.com/en
     - [**(TOOL)** .NET CLI guide](https://docs.microsoft.com/en-us/dotnet/core/tools/)
     - [**(TOOL)** omnisharp too for dev in vscode](https://www.omnisharp.net/)
     - Azure services for microserive arch development
+3. from [(**TUT**) get started with asp .net core tutorial](https://docs.microsoft.com/en-us/aspnet/core/getting-started/?view=aspnetcore-5.0&tabs=windows)
+    - [dotnet home page to download SDK](https://dotnet.microsoft.com/)
+    - [10 min tutorial on dotnet website to create a webapp](https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/intro)
+    - [dotnet funds from installed SDK window](https://docs.microsoft.com/en-us/dotnet/fundamentals/)
+    - [dotnet tutorials from installed SDK window](https://docs.microsoft.com/en-us/dotnet/core/tutorials/)
+    - [dotnet in-browser tutorial](https://dotnet.microsoft.com/learn/dotnet/in-browser-tutorial/1)
+    - [C# 101 tut on YT](https://www.youtube.com/watch?v=BM4CHBmAPh4&list=PLdo4fOcmZ0oVxKLQCHpiUWun7vlJJvUiN)
+    - [dotnet 101 tut on YT](https://www.youtube.com/watch?v=eIHKZfgddLM&list=PLdo4fOcmZ0oWoazjhXQzBKMrFuArxpW80)
+    
